@@ -1,1 +1,2 @@
-# yesod_webあああ
+# yesod_web
+サイト作ったもののyesodのweb公開のやり方がわからず供養
